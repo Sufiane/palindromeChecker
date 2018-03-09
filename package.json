@@ -1,0 +1,23 @@
+{
+  "name": "javascript_test_1",
+  "version": "1.0.0",
+  "description": "a quick and simple palyndrome detection application write a program that parses the different texts in the data.js file and outputs for each one",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcarecolin/javascript_test_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcarecolin/javascript_test_1/issues"
+  },
+  "homepage": "https://github.com/tcarecolin/javascript_test_1#readme"
+}
