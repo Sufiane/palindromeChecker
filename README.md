@@ -1,12 +1,15 @@
-# javascript_test_1
+# Palindrome checker
 a quick and simple palyndrome detection application
-write a program that parses the different texts in the data.js file and outputs for each one
 
-if it uses palindromes words ?
-or
-if the whole text is a palindrome ?
-or
-if there isn't any palindromes.
+This application can detect 3 types of palyndrome:
+    - a word
+    - a sentence that can be read both ways. i.e: King, are you glad you are king?
+    - a sentences that is a true palindrome (same principle as for a word) i.e: A nut for a jar of tuna.
 
-bonus : beware of the case, and specific chars
-bonus 2 : detect sentences that could be read in both direction
+The results are displayed as the following:
+ `A sentence for example`
+ {
+    palindromeWords:           [],
+    wholeTextPalindrome:       false,
+    sentenceMeaningPalindrome: false
+ }
